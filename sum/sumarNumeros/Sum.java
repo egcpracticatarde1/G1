@@ -14,7 +14,7 @@ public class Sum {
 		int result = 0;
 		for (int n :numbers){
 			
-			result += n;
+			result +=n;
 		}
 		return result;
 	}

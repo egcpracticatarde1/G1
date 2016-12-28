@@ -9,10 +9,8 @@ import sumarNumeros.Sum;
 public class TestSum {
 	
 	@Test
-	public void testSum2NumPosAndNeg() {
+	public void testSum3NumPosAndNeg() {
 		assertEquals(6, Sum.sum3numeros(2, 1, 3));
-		assertEquals(-11, Sum.sum3numeros(-10, -1, 0));
-		assertEquals(-14, Sum.sum3numeros(-10, -1, -3));
 
 	}
 	
