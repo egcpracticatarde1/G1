@@ -1,4 +1,4 @@
-package sumarNumeros;
+package sumarRestarNumeros;
 
 public class Substract {
 	

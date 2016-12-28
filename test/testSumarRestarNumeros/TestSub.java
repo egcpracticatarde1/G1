@@ -1,10 +1,10 @@
-package testSumarNumeros;
+package testSumarRestarNumeros;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import sumarNumeros.Substract;
+import sumarRestarNumeros.Substract;
 
 public class TestSub {
 	
